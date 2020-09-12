@@ -1,5 +1,7 @@
 # Instagram Bot
 
+![Markdown Logo](https://www.instagram.com/static/images/ico/xxhdpi_launcher.png/99cf3909d459.png)
+
 ### Requirements
 ```
 selenium
@@ -25,7 +27,3 @@ This is a simple instagrm bot made with selenium, which can:
 > Note this will only work until instagram changes their UI
 > More functionalities can be added
 ```
-
-<br><br>
-
-![Markdown Logo](https://www.instagram.com/static/images/ico/xxhdpi_launcher.png/99cf3909d459.png)
